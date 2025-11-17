@@ -96,4 +96,3 @@ By completing this task, you will learn how to:
 
 ---
 
-If you need help running the queries or creating the screenshots, feel free to ask!
